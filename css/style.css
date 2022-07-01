@@ -1,0 +1,24 @@
+body {
+    margin: 15px 50px;
+    padding: 0;
+    text-align: center;
+
+}
+
+
+h1 {
+    text-decoration: underline 5px red;
+}
+#park {
+    width: 400px;
+}
+footer {
+    text-align: center;
+    border: 4px dashed orange;
+    
+}
+footer > p {
+    font-size: larger;
+    text-decoration: underline 20px brown;
+    
+}
